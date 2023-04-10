@@ -1,6 +1,6 @@
 {
   "name": "developer-tools-common-language",
-  "version": "0.1.0",
+  "version": "0.3.3",
   "description": "Collection of DTOs and other entities shared by developer-ui and developer-api",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

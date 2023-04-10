@@ -1,3 +1,4 @@
 import { Events } from './events';
+import { Payload, DevToolsMessageEvent } from './types';
 
-export { Events };
+export { Events, Payload, DevToolsMessageEvent };
